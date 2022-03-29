@@ -1,0 +1,299 @@
+#logo1 {
+    color:goldenrod;
+    background-color: goldenrod;
+    justify-content: space-between;
+    width:100px;
+    height: auto; 
+    position: absolute;
+    right: 800px; 
+    
+}
+#logo2 {
+    color:goldenrod;
+    background-color: goldenrod;
+    justify-content: space-between;
+    width:100px;
+    height: auto; 
+    position: absolute;
+    right: 600px; 
+}
+
+#logo3 {
+    color:goldenrod;
+    background-color: goldenrod;
+    justify-content: space-between;
+    width:100px;
+    height: auto; 
+    position: absolute;
+    right: 400px; 
+}
+#logo4 {
+    color:goldenrod;
+    background-color: goldenrod;
+    justify-content: space-between;
+    width:100px;
+    height: auto; 
+    position: absolute;
+    right: 200px; 
+}
+#tagline {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color:goldenrod;
+    font-weight: 300;
+    font-size: 200pt;
+    font-style: normal;
+    letter-spacing: .05em;
+    text-transform: none;
+    text-align: center;
+    background-color: #27352a ;
+}
+
+#tagline a{
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+}
+
+#nav {
+    background-color: #27352a;
+    color: goldenrod;
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content: space-between;
+    text-align: center;
+    flex-basis: 20cm;
+    position: relative;
+    top: 250px;
+    /* margin-top: 10cm; */
+
+}
+
+#nav a{
+    justify-content: space-between;
+    color:gold;
+    align-content: center;
+    text-decoration: none;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 55pt;
+}
+
+#nav a:hover{
+    color:gold;
+    border-bottom:gold;
+    border-style:solid;
+}
+.navbar {
+    bottom: 200px;
+}
+.logo{
+    width: 400px;
+    height: auto;
+    position: absolute;
+    left: 220px;  
+}
+
+#tagline {
+    font-family: proxima-nova,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 400;
+    font-style: normal;    
+    color:goldenrod;
+    font-size: 200pt;
+    font-style: normal;
+    letter-spacing: .05em;
+    text-transform: none;
+    text-align: center;
+    background-color: #27352a ;
+}
+
+#tagline a{
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+}
+
+#mainimage {
+    width: 100%;
+    align-items: center;
+}
+
+#quote1 {    
+    position: relative;
+    top: 110px;
+    font-family: halyard-display,;
+    font-weight: 200;
+    font-style: normal;
+    letter-spacing: 1.2cm;
+    font-size: 120pt;
+    line-height: 1.16;
+    color: white;
+    font-style: normal;
+    letter-spacing: .05em;
+    text-transform: none;
+    text-align: center;
+    background-color: #27352a ;
+}
+
+#guitar {
+    width: 30%;
+    height: auto;
+}
+#text1 {
+    padding-left: 200px;
+    text-align: center;
+    color: white;
+    font-size: 30pt;
+    width: 30%;
+    position: relative;
+    bottom: 70px;
+    
+}
+
+#text2 {
+    left: 1900px;
+    text-align: center;
+    color: white;
+    font-size: 30pt;
+    width: 30%;
+    height:30%;
+    position:relative;
+    bottom: 620px;
+    
+}
+
+#text3 {
+    left: 3600px;
+    text-align: center;
+    color: white;
+    font-size: 30pt;
+    width: 30%;
+    height:30%;
+    position:relative;
+    bottom: 1290px;
+}
+
+#text4 {
+    padding-left: 200px;
+    text-align: left;
+    color: white;
+    font-size: 35pt;
+    width: 30%;
+    position: relative;
+    bottom: 650px;
+    
+}
+
+#text5 {
+    left:1900px;
+    text-align: left;
+    color: white;
+    font-size: 35pt;
+    width: 30%;
+    position: relative;
+    bottom: 975px;
+    
+}
+
+#text6 {
+    left:3600px;
+    text-align: left;
+    color: white;
+    font-size: 35pt;
+    width: 30%;
+    position: relative;
+    bottom: 1370px;
+    
+}
+
+#text7 {
+    left:550px ;
+    text-align:center;
+    color: white;
+    font-size: 72pt;
+    width:80%;
+    position: relative;
+    bottom: 3700px;
+    
+}
+
+
+#button {
+    left: 2250px;
+    font-size: 80px;
+    text-align: center;
+    background-color: goldenrod;
+    width: 15%;
+    height: 10%;
+    position: relative;
+    bottom: 1000px;
+}
+
+#button a{
+    justify-content: space-between;
+    color:white;
+    align-content: center;
+    text-decoration: none;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 55pt;
+}
+
+#button a:hover{
+    color:gold;
+    border-bottom:gold;
+    border-style:solid;
+}
+
+#tagline2{
+    font-size: 60pt;
+    color: white;
+    text-align: center;
+    position: relative;
+    bottom: 700px;
+
+}
+
+#video{
+    position: relative;
+    bottom: 1200px;
+}
+
+#finalimage{
+    width: 100%;
+    align-items: center;
+    position: relative;
+    bottom: 1000px;
+
+}
+#logo5 {
+    color:goldenrod;
+    justify-content: space-between;
+    width:200px;
+    height: auto; 
+    position: relative; 
+    bottom: 1000px;
+    left: 2200px;
+    
+}
+#logo6 {
+    color:goldenrod;
+    justify-content: space-between;
+    width:200px;
+    height: auto; 
+    position: relative; 
+    bottom: 1203px;
+    left: 2600px; 
+}
+
+#logo7 {
+    color:goldenrod;
+    justify-content: space-between;
+    width:200px;
+    height: auto; 
+    position: relative; 
+    bottom: 1407px;
+    left: 3000px;
+}
+body{
+    background-color: #27352a;
+    background-size:cover;
+}
